@@ -1,0 +1,27 @@
+{  
+   "active":[{"username":"snapwiz","path":"/home/{{userName}}/project/application/src/main/java/ai/glider/Wholefoods.java","focused":false},{"username":"snapwiz","path":"/home/{{userName}}/project/application/src/main/java/ai/glider/WholefoodsOrder.java","focused":true},
+{"username":"snapwiz","path":"/home/{{userName}}/project/application/src/main/java/ai/glider/WholefoodsOrderInterface.java","focused":false},
+{"username":"snapwiz","path":"/home/{{userName}}/project/application/src/test/java/ai/glider/WholefoodsOrderTest.java","focused":false}],
+   "projects":[  
+      {  
+         "name":"WholeFoods",
+         "path":"\/home\/{{userName}}\/project\/application",
+         "container_id":"testContainerId",
+         "collaboration":false,
+         "source":"{{xtermUrl}}",
+         "build":true,
+         "browser":false,
+         "browser_url":"{{browserUrl}}",
+         "runsql":false,
+         "refresh_xterm_url":"{{refreshXtermUrl}}",
+	 "build_command":"mvn test",
+         "defaultOpenFolder":"/home/{{userName}}/project/application/src/test/java/ai/glider",
+	 "defaultOpenFolder":"/home/{{userName}}/project/application/src/main/java/ai/glider",
+         "readOnlyFolders":["/home/{{userName}}/project/application/src/test",
+	 "/home/{{userName}}/project/application/pom.xml",
+	 "/home/{{userName}}/project/application/src/test/java/ai/glider/WholefoodsOrderTest.java"],
+         "hiddenFiles":["/home/{{userName}}/project/application/result.json"]
+      }
+   ]
+}
+
